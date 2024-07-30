@@ -1,5 +1,5 @@
 # Liste su data strukture deka skladistimo podatci i moze da ukljucuju sve vrste
-#na podaci
+#na  podaci
 #primer 1.)
 #voce = ['jabuka','banana','jagoda','ananas']
 #print (voce)
